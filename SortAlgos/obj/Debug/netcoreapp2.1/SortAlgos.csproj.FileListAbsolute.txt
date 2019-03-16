@@ -1,0 +1,11 @@
+D:\csharp\SortAlgos\SortAlgos\bin\Debug\netcoreapp2.1\SortAlgos.deps.json
+D:\csharp\SortAlgos\SortAlgos\bin\Debug\netcoreapp2.1\SortAlgos.runtimeconfig.json
+D:\csharp\SortAlgos\SortAlgos\bin\Debug\netcoreapp2.1\SortAlgos.runtimeconfig.dev.json
+D:\csharp\SortAlgos\SortAlgos\bin\Debug\netcoreapp2.1\SortAlgos.dll
+D:\csharp\SortAlgos\SortAlgos\bin\Debug\netcoreapp2.1\SortAlgos.pdb
+D:\csharp\SortAlgos\SortAlgos\obj\Debug\netcoreapp2.1\SortAlgos.csprojAssemblyReference.cache
+D:\csharp\SortAlgos\SortAlgos\obj\Debug\netcoreapp2.1\SortAlgos.csproj.CoreCompileInputs.cache
+D:\csharp\SortAlgos\SortAlgos\obj\Debug\netcoreapp2.1\SortAlgos.AssemblyInfoInputs.cache
+D:\csharp\SortAlgos\SortAlgos\obj\Debug\netcoreapp2.1\SortAlgos.AssemblyInfo.cs
+D:\csharp\SortAlgos\SortAlgos\obj\Debug\netcoreapp2.1\SortAlgos.dll
+D:\csharp\SortAlgos\SortAlgos\obj\Debug\netcoreapp2.1\SortAlgos.pdb
